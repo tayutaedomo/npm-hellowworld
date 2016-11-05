@@ -1,0 +1,19 @@
+{
+  "name": "tayutaedomo-helloworld",
+  "version": "1.0.0",
+  "description": "Try to create a npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tayutaedomo/npm-hellowworld.git"
+  },
+  "author": "Tayutaedomo <tayutaedomo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tayutaedomo/npm-hellowworld/issues"
+  },
+  "homepage": "https://github.com/tayutaedomo/npm-hellowworld#readme"
+}
